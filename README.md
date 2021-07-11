@@ -26,7 +26,8 @@
 ![MySql](https://img.shields.io/badge/-MySql-373737?&logo=MySQL)
 ![PostgreSql](https://img.shields.io/badge/-PostgreSql-373737?&logo=postgresql)
 
-![IntellijIDEA](https://img.shields.io/badge/-Intellij%20IDEA-373737?&logo=IntelliJ%20IDEA&logoColor=fff)
+![IntelliJ](https://img.shields.io/badge/-IntellJ-373737?&logo=IntelliJ%20IDEA)
+![Rider](https://img.shields.io/badge/-Rider-373737?&logo=Rider)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-373737?&logo=eclipseide&logoColor=2C2255)
 
 ![JQuery](https://img.shields.io/badge/-JQuery-373737?&logo=jquery)
