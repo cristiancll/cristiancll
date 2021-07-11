@@ -55,10 +55,10 @@
 
 ### 📈 Stats 
  
-[![Cristian GitHub stats](https://github-readme-stats.vercel.app/api?username=cristiancll&theme=vision-friendly-dark&show_icons=true&custom_title=Cristian%20Github%20Stats&include_all_commits=true)](https://github.com/cristiancll/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=cristiancll&theme=vision-friendly-dark&show_icons=true&custom_title=Cristian%20Github%20Stats&include_all_commits=true)](#)
 
 ### 🔤 Languages 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiancll&layout=compact&theme=vision-friendly-dark)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiancll&layout=compact&theme=vision-friendly-dark)](#)
 
 
 <hr>
