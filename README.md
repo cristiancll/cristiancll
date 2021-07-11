@@ -1,6 +1,6 @@
 
 <h1 align="center"> 
-	👷 Under Construction! :octocat:
+	👷‍♂️ Under Construction! 👷‍♀️
 </h1>
 
 ### 📝 about_me.txt
