@@ -1,6 +1,6 @@
 
 <h1 align="center"> 
-	👷‍♂️ Under Construction! 👷‍♀️
+	👷‍♂️ Under Development! 👷‍♀️
 </h1>
 
 ### 📝 about_me.txt
