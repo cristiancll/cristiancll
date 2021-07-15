@@ -38,7 +38,6 @@
 [![](https://img.shields.io/badge/-Hibernate-373737?&logo=hibernate)](#)
 [![](https://img.shields.io/badge/-Swagger-373737?&logo=swagger)](#)
 [![](https://img.shields.io/badge/-Selenium-373737?&logo=selenium)](#)
-<!-- [![](https://img.shields.io/badge/-Node-373737?&logo=node.js)](#) -->
 [![](https://img.shields.io/badge/-React%20Native-373737?&logo=React)](#)
 [![](https://img.shields.io/badge/-Spring-373737?&logo=spring)](#)
 
@@ -69,3 +68,4 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-orange?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/2820572)](https://stackoverflow.com/users/2820572)
 
 
+<!-- [![](https://img.shields.io/badge/-Node-373737?&logo=node.js)](#) -->
