@@ -39,6 +39,7 @@
 [![](https://img.shields.io/badge/-Swagger-373737?&logo=swagger)](#)
 [![](https://img.shields.io/badge/-Selenium-373737?&logo=selenium)](#)
 [![](https://img.shields.io/badge/-React%20Native-373737?&logo=React)](#)
+[![](https://img.shields.io/badge/-React-373737?&logo=React)](#)
 [![](https://img.shields.io/badge/-Spring-373737?&logo=spring)](#)
 
 
