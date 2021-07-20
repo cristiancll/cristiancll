@@ -66,6 +66,7 @@
 ### 👨‍💻 Also in
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristiancll/)](https://www.linkedin.com/in/cristiancll/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/cristiancll)](https://twitter.com/cristiancll)
+[![Discord Badge](https://img.shields.io/badge/-Cristian%233166-738adb?style=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/users/417496192990052364)](https://discordapp.com/users/417496192990052364)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-orange?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/2820572)](https://stackoverflow.com/users/2820572)
 
 
