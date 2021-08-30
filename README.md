@@ -5,12 +5,9 @@
 
 ### 📝 about_me.txt
 
-- 🇪🇸 Born in Madrid, Spain
-- 🇧🇷 Living in Florianópolis, Brazil
 - 📚 Self-taught
 - 🔭 Working as a Full Stack Engineer on a Startup called Nina Tecnologia
-- 🌱 Learning React-Native for a side project
-- 🎮 Also doing some Unity dev as a hobby on my spare time
+- 🌱 Currently using React/React-Native on side projects
 
 ### 🔋 Stack
 
