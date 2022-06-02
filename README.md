@@ -2,7 +2,7 @@
 <h1 align="center"> 
 	👷‍♂️ Under Development! 👷‍♀️
 </h1>
-
+<!-- 
 ### 📝 about_me.txt
 
 - 📚 Self-taught
@@ -66,5 +66,5 @@
 [![Discord Badge](https://img.shields.io/badge/-Cristian%233166-738adb?style=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/users/417496192990052364)](https://discordapp.com/users/417496192990052364)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-orange?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/2820572)](https://stackoverflow.com/users/2820572)
 
-
+ -->
 <!-- [![](https://img.shields.io/badge/-Node-373737?&logo=node.js)](#) -->
